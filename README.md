@@ -38,7 +38,7 @@ python -m pip install git+https://github.com/Valdes-Tresanco-MS/AutoDockTools_py
 ```
 The code should work with PyTorch >= 1.9.0 and PyG >= 2.0. You can change the package version according to your need.
 
-### Test for VFNet
+### Test for VFDiff results
 ```bash
 unzip targetdiff.zip
 ```
