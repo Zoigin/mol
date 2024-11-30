@@ -2,12 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/guanjq/targetdiff/blob/main/LICIENCE)
 
+The code is adapted from TargetDiff and is used to test the generated data in VFDiff.
 
-This repository is the official implementation of 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction (ICLR 2023). [[PDF]](https://openreview.net/pdf?id=kJqXEPXMsE0) 
 
-<p align="center">
-  <img src="assets/overview.png" /> 
-</p>
+
 
 ## Installation
 
@@ -53,12 +51,3 @@ python evaluate_diffusion.py
 ```
 
 
-## Citation
-```
-@inproceedings{guan3d,
-  title={3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction},
-  author={Guan, Jiaqi and Qian, Wesley Wei and Peng, Xingang and Su, Yufeng and Peng, Jian and Ma, Jianzhu},
-  booktitle={International Conference on Learning Representations},
-  year={2023}
-}
-```
